@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Hoy es 30 de Junio de 2025 5:45 pm From Estiven Fork para Dockerhub desde github actions" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Hoy es 30 de Junio de 2025 11:02 pm From Estiven Fork para Dockerhub desde github actions" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="Todos los Productos" id="linkProds" />
                 <br/>
